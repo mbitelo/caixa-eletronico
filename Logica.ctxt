@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Logica()
+comment1.params=
+comment1.target=java.lang.String\ Nota100()
+comment2.params=
+comment2.target=java.lang.String\ Nota50()
+comment3.params=
+comment3.target=java.lang.String\ Nota20()
+comment4.params=
+comment4.target=java.lang.String\ Nota10()
+comment5.params=
+comment5.target=java.lang.String\ Nota5()
+comment6.params=
+comment6.target=java.lang.String\ Nota2()
+comment7.params=
+comment7.target=java.lang.String\ Nota1()
+comment8.params=
+comment8.target=java.lang.String\ Escreve()
+numComments=9
